@@ -1,0 +1,30 @@
+Day 1: 
+Logins : 6
+Time online : 148.58
+Emails sent : 9
+Emails opened : 12
+Emails deteled : 7
+Day 2: 
+Logins : 3
+Time online : 166.97
+Emails sent : 9
+Emails opened : 13
+Emails deteled : 5
+Day 3: 
+Logins : 7
+Time online : 183.94
+Emails sent : 12
+Emails opened : 14
+Emails deteled : 9
+Day 4: 
+Logins : 4
+Time online : 170.18
+Emails sent : 11
+Emails opened : 12
+Emails deteled : 8
+Day 5: 
+Logins : 5
+Time online : 137.74
+Emails sent : 4
+Emails opened : 17
+Emails deteled : 9

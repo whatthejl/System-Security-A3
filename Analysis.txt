@@ -1,0 +1,6 @@
+5
+Logins:25.00:5.00:1.41:
+Time online:807.41:161.48:16.37:
+Emails sent:45.00:9.00:2.76:
+Emails opened:68.00:13.60:1.85:
+Emails deteled:38.00:7.60:1.50:
